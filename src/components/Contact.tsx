@@ -13,8 +13,8 @@ const Contact = () => {
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 XXXXX XXXXX",
-      link: "tel:+91XXXXXXXXXX"
+      value: "+91 85278 79047",
+      link: "tel:+918527879047"
     },
     {
       icon: Linkedin,
