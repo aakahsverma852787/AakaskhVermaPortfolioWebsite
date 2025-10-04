@@ -7,8 +7,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "aakash.verma@email.com",
-      link: "mailto:aakash.verma@email.com"
+      value: "aakashverma852787@outlook.com",
+      link: "mailto:aakashverma852787@outlook.com"
     },
     {
       icon: Phone,
@@ -83,7 +83,7 @@ const Contact = () => {
                 <Button 
                   size="lg"
                   className="gap-2"
-                  onClick={() => window.location.href = 'mailto:aakash.verma@email.com'}
+                  onClick={() => window.location.href = 'mailto:aakashverma852787@outlook.com'}
                 >
                   <Mail className="w-5 h-5" />
                   Send Email
