@@ -19,8 +19,8 @@ const Contact = () => {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "linkedin.com/in/aakashverma",
-      link: "https://www.linkedin.com/in/aakashverma"
+      value: "linkedin.com/in/aakash-verma-3b1187272",
+      link: "https://www.linkedin.com/in/aakash-verma-3b1187272"
     },
     {
       icon: MapPin,
